@@ -12,12 +12,7 @@ The script will produce a file **datasetMeanBySubjectAndActivity.txt** which con
 
 ### Codebook of the generated dataset
 
-The variables are exactly named like in the original dataset, please see the files in the **UCI HAR Dataset** folder
-
-* features.txt
-* features_info.txt
-
-for the units and additional information on the extracted variables in the tidy dataset.
+Please see the file Codebook.md.
 
 [dplyr]:http://cran.r-project.org/web/packages/dplyr/index.html
 
